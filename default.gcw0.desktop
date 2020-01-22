@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Bouncing Ball
+Comment=Bouncing ball example extracted from pygame tutorial
+Exec=python ball.pyc
+Categories=games;
+Icon=icon
